@@ -1,2 +1,2 @@
 # Corporate-Data-Warehouse
-Demonstration of what I've done during my studies.
+End-to-end Data Warehousing solution demonstrating SSIS ETL pipelines, SQL Star Schema modeling, and Power BI analytics.
